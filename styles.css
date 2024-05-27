@@ -1,0 +1,124 @@
+		body { 
+			background-image: url("https://cdn.kimkim.com/files/a/images/2e54fc97a63bdf6a091428a2257cca95079c6f9d/original-3927174306a6cd7b5c399178f8517a10.jpg");
+
+			background-repeat: no-repeat;
+
+			background-size: cover;
+
+			background-attachment: scroll;
+		}
+
+		.product {
+
+			padding: 10px;
+
+			opacity: 95%;
+
+			display: flex;
+			
+			flex-wrap: wrap;
+		}
+
+		header {
+			opacity: 75%;
+			font-size: 25px;
+			background: #1b425f;
+
+			background: linear-gradient(148deg,#1b425f 14%, #1b425f 47%, #1a2a3c 80%);
+
+			background: -webkit-linear-gradient(148deg,#1b425f 14%, #1b425f 47%, #1a2a3c 80%);
+
+			background: -moz-linear-gradient(148deg,#1b425f 14%, #1b425f 47%, #1a2a3c 80%);
+
+			border-radius: 10px;
+
+			justify-content: center;
+
+			font-family: "Courier New", monospace;
+		}
+
+		.intro {
+			font-size: 18px;
+			font-family: "Courier New", monospace;
+		}
+
+		.bgcarryingallthephotos {
+			background-color: #1b425f;
+
+			justify-content: center;
+
+			border-radius: 10px;
+
+			gap: 5px;
+
+			display: flex;
+
+			flex-wrap: wrap;
+
+			font-family: "Courier New", monospace;
+		}
+
+		.leftsideofthepic {
+			background: #2d6473;
+
+			background: linear-gradient(264deg,#2d6473 14%, #122c32 80%);
+
+			background: -webkit-linear-gradient(264deg,#2d6473 14%, #122c32 80%);
+
+			background: -moz-linear-gradient(264deg,#2d6473 14%, #122c32 80%);
+
+			border-radius: 10px;
+
+			gap: 5px;
+
+			display: flex;
+
+			font-family: "Courier New", monospace;
+		}
+
+
+		#place1, #place2, #place3, #place4 {
+
+			background-color: #3a3c27;
+
+			padding: 7px;
+
+			border-radius: 5px;
+
+			box-shadow: 2px 1px 20px 0px rgba(14,8,9,0.89) inset;
+
+			-webkit-box-shadow: 2px 1px 35px 0px rgba(14,8,9,0.89) inset;
+
+			-moz-box-shadow: 2px 1px 35px 0px rgba(14,8,9,0.89) inset;
+		}
+
+		.meet {
+			font-family: "Courier New", monospace;
+			font-size: 18px;
+		}
+
+		footer {
+			opacity: 80%;
+
+			border-radius: 5px;
+
+			font-size: 16px;
+
+			background: #3a3c27;
+
+			background: linear-gradient(127deg,#3a3c27 14%, #858961 80%);
+
+			background: -webkit-linear-gradient(127deg,#3a3c27 14%, #858961 80%);
+
+			background: -moz-linear-gradient(127deg,#3a3c27 14%, #858961 80%);
+
+			border: 1px;
+
+/*			width: 50%;*/
+
+			font-family: "Courier New", monospace;
+		}
+
+		img {
+			width: 450px;
+		}
